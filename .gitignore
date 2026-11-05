@@ -1,0 +1,13 @@
+# build output
+build/
+out/
+.vs/
+vcpkg_installed/
+# personal machine paths
+CMakeUserPresets.json
+# local copy of the pre-fix sources
+_orig_backup/
+# test run artefacts
+output/
+# local build helper with machine paths
+_build.cmd
